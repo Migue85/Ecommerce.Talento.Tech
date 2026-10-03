@@ -1,0 +1,6 @@
+.catalogo {
+  display: flex;
+  gap: 20px; /* Espacio entre las tarjetas */
+  justify-content: center; /* Centra las tarjetas en la pantalla */
+  padding: 20px;
+}

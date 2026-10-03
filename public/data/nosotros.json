@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Silvia",
+        "email": "silvia@talentolab.com",
+        "puesto": "Product Owner",
+        "foto": "https://i.pinimg.com/736x/03/01/ed/0301ed2ff39c3eef348aed201623c669.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Marcos",
+        "email": "marcos@talentolab.com",
+        "puesto": "CEO",
+        "foto": "https://i.pinimg.com/736x/ca/af/c0/caafc02a18e0df58782a6c39d4b998cc.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Laura",
+        "email": "laura@talentolab.com",
+        "puesto": "Tech Lead",
+        "foto": "https://i.pinimg.com/736x/7c/d4/5c/7cd45cdeb478481b954f76753bc9af3d.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Tomás",
+        "email": "tomas@talentolab.com",
+        "puesto": "Diseñador UX",
+        "foto": "https://i.pinimg.com/736x/04/11/a4/0411a4961f3724f15df8f6a52f75ce44.jpg"
+    }
+]
